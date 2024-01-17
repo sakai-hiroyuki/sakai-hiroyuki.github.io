@@ -1,0 +1,63 @@
+baseURL = "https://sakai-hiroyuki.github.io"
+publishDir = "docs"
+title = "236236P"
+theme = "hugo-coder"
+languageCode = "jp"
+defaultContentLanguage = "jp"
+paginate = 6
+enableEmoji = true
+
+[markup.highlight]
+noClasses = false
+
+[params]
+author = "Hiroyuki Sakai"
+description = "Hiroyuki Sakai's personal website"
+keywords = ""
+info = ["Ph.D student"]
+avatarURL = "images/kraken.jpg"
+dateFormat = "January 2, 2006"
+since = 2019
+rtl = false
+colorScheme = "auto"
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 2
+
+customCSS = []
+customSCSS = []
+customJS = []
+customRemoteJS = []
+
+[taxonomies]
+tag = "tags"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/sakai-hiroyuki"
+
+[[params.social]]
+name = "ORCiD"
+icon = "fa fa-2x fa-orcid"
+weight = 2
+url = "https://orcid.org/0000-0001-7144-1549"
+
+
+[languages.jp]
+languageName = ":jp:"
+
+[[languages.jp.menu.main]]
+name = "Publications"
+weight = 1
+url = "publications/"
+
+[[languages.jp.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
+
+[[languages.jp.menu.main]]
+name = "Contact"
+weight = 3
+url = "contact/"
