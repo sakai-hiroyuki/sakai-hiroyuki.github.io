@@ -39,6 +39,6 @@ title = "Publications"
 
 - 朱 伊妮, **酒井 裕行**, 飯塚 秀明: **適応勾配法を利用したニューラルネットワークの訓練**, 京都大学数理解析研究所研究集会 非線形解析学と凸解析学の研究, オンライン開催 (2021年3月1日).
 
-- **酒井 裕行**, 佐藤 寛之, 飯塚 秀明: **Riemann多様体上のHZ型共役勾配法の固有値問題への応⽤**, 日本応用数理学会 2022年度年会, 北海道大学, (2022年9月8日).
+- **酒井 裕行**, 佐藤 寛之, 飯塚 秀明: **Riemann多様体上のHZ型共役勾配法の固有値問題への応⽤**, 日本応用数理学会 2022年度年会 「行列・固有値問題の解法とその応用」 研究部会, 北海道大学⾼等教育推進機構 (2022年9月8日).
 
 - **Hiroyuki Sakai**, Hideaki Iiduka: **Adaptive Learning Rate Optimization Algorithms for Riemannian Optimization**, The 10th International Congress on Industrial and Applied Mathematics (ICIAM), Waseda University, Tokyo, Japan (Aug. 20-25, 2023).

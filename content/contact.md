@@ -2,4 +2,4 @@
 title = "Contact"
 +++
 
-sakai0815@cs.meiji.ac.jp
+e-mail: sakai0815@cs.meiji.ac.jp
