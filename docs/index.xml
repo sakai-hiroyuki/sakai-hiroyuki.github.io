@@ -6,14 +6,14 @@
     <description>Recent content on 236236P</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sakai-hiroyuki.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Euclid</title>
-      <link>https://sakai-hiroyuki.github.io/posts/euclid/</link>
-      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://sakai-hiroyuki.github.io/posts/euclid/</guid>
-      <description>TEST</description>
+      <title>Hybrid Riemannian conjugate gradient methods with global convergence properties</title>
+      <link>https://sakai-hiroyuki.github.io/posts/sakai2020hybrid/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://sakai-hiroyuki.github.io/posts/sakai2020hybrid/</guid>
+      <description>Hybrid Riemannian conjugate gradient methods with global convergence properties Link to heading Author: Hiroyuki Sakai, Hideaki Iiduka Journal: Computational Optimization and Applications 77: 811-830 (2020) URL: https://link.springer.com/article/10.1007/s10589-020-00224-9, GitHub: https://github.com/iiduka-researches/202008-hybrid-rcg Abstract Link to heading This paper presents Riemannian conjugate gradient methods and global convergence analyses under the strong Wolfe conditions. The main idea of the proposed methods is to combine the good global convergence properties of the Dai–Yuan method with the efficient numerical performance of the Hestenes–Stiefel method.</description>
     </item>
     <item>
       <title>Contact</title>
@@ -27,7 +27,7 @@
       <link>https://sakai-hiroyuki.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sakai-hiroyuki.github.io/publications/</guid>
-      <description>査読付き原著論文 Link to heading Hiroyuki Sakai, Hideaki Iiduka: Hybrid Riemannian conjugate gradient methods with global convergence properties, Computational Optimization and Applications 77: 811-830 (2020). GitHub&#xA;Hiroyuki Sakai, Hideaki Iiduka: Sufficient Descent Riemannian Conjugate Gradient Methods, Journal of Optimization Theory and Applications 190: 130-150 (2021). GitHub&#xA;Hiroyuki Sakai, Hideaki Iiduka: Riemannian Adaptive Optimization Algorithm and Its Application to Natural Language Processing, IEEE Transactions on Cybernetics 52 (8): 7328–7339 (2022).&#xA;Hideaki Iiduka, Hiroyuki Sakai: Riemannian Stochastic Fixed Point Optimization Algorithm, Numerical Algorithms 90: 1493–1517 (2022).</description>
+      <description>査読付き原著論文 Link to heading Hiroyuki Sakai, Hideaki Iiduka: Hybrid Riemannian conjugate gradient methods with global convergence properties, Computational Optimization and Applications 77: 811-830 (2020).&#xA;Hiroyuki Sakai, Hideaki Iiduka: Sufficient Descent Riemannian Conjugate Gradient Methods, Journal of Optimization Theory and Applications 190: 130-150 (2021). GitHub&#xA;Hiroyuki Sakai, Hideaki Iiduka: Riemannian Adaptive Optimization Algorithm and Its Application to Natural Language Processing, IEEE Transactions on Cybernetics 52 (8): 7328–7339 (2022).&#xA;Hideaki Iiduka, Hiroyuki Sakai: Riemannian Stochastic Fixed Point Optimization Algorithm, Numerical Algorithms 90: 1493–1517 (2022).</description>
     </item>
   </channel>
 </rss>

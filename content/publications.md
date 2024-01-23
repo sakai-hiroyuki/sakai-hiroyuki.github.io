@@ -3,11 +3,7 @@ title = "Publications"
 +++
 
 ## 査読付き原著論文
-- **Hiroyuki Sakai**, Hideaki Iiduka:
-[Hybrid Riemannian conjugate gradient methods with global convergence properties](https://link.springer.com/article/10.1007/s10589-020-00224-9),
-[Computational Optimization and Applications](https://link.springer.com/journal/10589)
-77: 811-830 (2020).
-[GitHub](https://github.com/iiduka-researches/202008-hybrid-rcg)
+- [Hiroyuki Sakai, Hideaki Iiduka: Hybrid Riemannian conjugate gradient methods with global convergence properties, Computational Optimization and Applications 77: 811-830 (2020).](../posts/sakai2020hybrid/)
 
 - **Hiroyuki Sakai**, Hideaki Iiduka:
 [Sufficient Descent Riemannian Conjugate Gradient Methods](https://link.springer.com/article/10.1007/s10957-021-01874-3),
