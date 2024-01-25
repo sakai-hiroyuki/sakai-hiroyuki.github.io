@@ -8,7 +8,7 @@ tags = ["査読付き原著論文"]
 # Hybrid Riemannian conjugate gradient methods with global convergence properties
 - Author: **Hiroyuki Sakai**, Hideaki Iiduka
 - Journal: [Computational Optimization and Applications](https://link.springer.com/journal/10589) 77: 811-830 (2020)
-- URL: https://link.springer.com/article/10.1007/s10589-020-00224-9,
+- URL: https://link.springer.com/article/10.1007/s10589-020-00224-9
 - GitHub: https://github.com/iiduka-researches/202008-hybrid-rcg
 
 ## Abstract

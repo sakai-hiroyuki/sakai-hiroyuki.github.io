@@ -5,26 +5,13 @@ title = "Publications"
 ## 査読付き原著論文
 - [Hiroyuki Sakai, Hideaki Iiduka: Hybrid Riemannian conjugate gradient methods with global convergence properties, Computational Optimization and Applications 77: 811-830 (2020).](../posts/sakai2020hybrid/)
 
-- **Hiroyuki Sakai**, Hideaki Iiduka:
-[Sufficient Descent Riemannian Conjugate Gradient Methods](https://link.springer.com/article/10.1007/s10957-021-01874-3),
-[Journal of Optimization Theory and Applications](https://link.springer.com/journal/10957)
-190: 130-150 (2021).
-[GitHub](https://github.com/iiduka-researches/202104-sufficient)
+- [Hiroyuki Sakai, Hideaki Iiduka: Sufficient Descent Riemannian Conjugate Gradient Methods, Journal of Optimization Theory and Applications 190: 130-150 (2021).](../posts/sakai2021sufficient/)
 
-- **Hiroyuki Sakai**, Hideaki Iiduka:
-[Riemannian Adaptive Optimization Algorithm and Its Application to Natural Language Processing](https://ieeexplore.ieee.org/document/9339934),
-[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)
-52 (8): 7328–7339 (2022).
+- [Hiroyuki Sakai, Hideaki Iiduka: Riemannian Adaptive Optimization Algorithm and Its Application to Natural Language Processing, IEEE Transactions on Cybernetics 52 (8): 7328–7339 (2022).](../posts/sakai2022riemannian)
 
-- Hideaki Iiduka, **Hiroyuki Sakai**:
-[Riemannian Stochastic Fixed Point Optimization Algorithm](https://link.springer.com/article/10.1007/s11075-021-01238-y),
-[Numerical Algorithms](https://link.springer.com/journal/11075)
-90: 1493–1517 (2022).
+- [Hideaki Iiduka, Hiroyuki Sakai: Riemannian Stochastic Fixed Point Optimization Algorithm, Numerical Algorithms 90: 1493–1517 (2022).](../posts/iiduka2022riemannian)
 
-- **Hiroyuki Sakai**, Hiroyuki Sato, Hideaki Iiduka:
-[Global Convergence of Hager-Zhang type Riemannian Conjugate Gradient Method](https://www.sciencedirect.com/science/article/abs/pii/S0096300322007536?via%3Dihub),
-[Applied Mathematics and Computation](https://www.sciencedirect.com/journal/applied-mathematics-and-computation)
-441: 127685 (2023).
+- [Hiroyuki Sakai, Hiroyuki Sato, Hideaki Iiduka: Global Convergence of Hager-Zhang type Riemannian Conjugate Gradient Method, Applied Mathematics and Computation 441: 127685 (2023).](../posts/sakai2023global)
 
 ## 口頭発表
 - **酒井 裕行**, 飯塚 秀明: **Riemann 多様体上の新たな共役勾配法の提案**, 日本オペレーションズ・リサーチ学会 2020年春季研究発表会, 奈良春日野国際フォーラム (2020年3月12日).
