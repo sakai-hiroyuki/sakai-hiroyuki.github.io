@@ -10,20 +10,7 @@ tags = ["査読付き原著論文"]
 - URL: https://ieeexplore.ieee.org/document/9339934
 
 ## Abstract
-This article proposes a Riemannian adaptive optimization algorithm
-to optimize the parameters of deep neural networks.
-The algorithm is an extension of both AMSGrad in Euclidean space
-and RAMSGrad on a Riemannian manifold.
-The algorithm helps to resolve two issues affecting RAMSGrad.
-The first is that it can solve the Riemannian stochastic optimization problem directly,
-in contrast to RAMSGrad which only achieves a low regret.
-The other is that it can use constant learning rates,
-which makes it implementable in practice.
-Additionally, we apply the proposed algorithm to Poincaré embeddings that embed the transitive
-closure of the WordNet nouns into the Poincaré ball model of hyperbolic space.
-Numerical experiments show that regardless of the initial value of the learning rate,
-our algorithm stably converges to the optimal solution
-and converges faster than the existing algorithms.
+This article proposes a Riemannian adaptive optimization algorithm to optimize the parameters of deep neural networks. The algorithm is an extension of both AMSGrad in Euclidean space and RAMSGrad on a Riemannian manifold. The algorithm helps to resolve two issues affecting RAMSGrad. The first is that it can solve the Riemannian stochastic optimization problem directly, in contrast to RAMSGrad which only achieves a low regret. The other is that it can use constant learning rates, which makes it implementable in practice. Additionally, we apply the proposed algorithm to Poincaré embeddings that embed the transitive closure of the WordNet nouns into the Poincaré ball model of hyperbolic space. Numerical experiments show that regardless of the initial value of the learning rate, our algorithm stably converges to the optimal solution and converges faster than the existing algorithms.
 
 ## BibTeX
 ```bibtex

@@ -11,17 +11,8 @@ tags = ["査読付き原著論文"]
 - GitHub: https://github.com/iiduka-researches/202008-hybrid-rcg
 
 ## Abstract
-This paper presents Riemannian conjugate gradient methods
-and global convergence analyses under the strong Wolfe conditions.
-The main idea of the proposed methods is to combine the good global
-convergence properties of the Dai–Yuan method with the efficient numerical
-performance of the Hestenes–Stiefel method. One of the proposed algorithms
-is a generalization to Riemannian manifolds of the hybrid conjugate
-gradient method of the Dai and Yuan in Euclidean space. The proposed
-methods are compared well numerically with the existing methods for
-solving several Riemannian optimization problems.
-Python implementations of the methods used in the numerical experiments
-are available at https://github.com/iiduka-researches/202008-hybrid-rcg.
+This paper presents Riemannian conjugate gradient methods and global convergence analyses under the strong Wolfe conditions.
+The main idea of the proposed methods is to combine the good global convergence properties of the Dai–Yuan method with the efficient numerical performance of the Hestenes–Stiefel method. One of the proposed algorithms is a generalization to Riemannian manifolds of the hybrid conjugate gradient method of the Dai and Yuan in Euclidean space. The proposed methods are compared well numerically with the existing methods for solving several Riemannian optimization problems. Python implementations of the methods used in the numerical experiments are available at https://github.com/iiduka-researches/202008-hybrid-rcg.
 
 ## BibTeX
 ```bibtex
