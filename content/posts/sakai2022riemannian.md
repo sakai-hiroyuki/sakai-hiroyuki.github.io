@@ -1,7 +1,6 @@
 +++
 title = "Riemannian Adaptive Optimization Algorithm and Its Application to Natural Language Processing"
 date = "2024-01-25"
-math = true
 tags = ["査読付き原著論文"]
 +++
 

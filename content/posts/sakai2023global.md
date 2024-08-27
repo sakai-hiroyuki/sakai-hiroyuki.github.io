@@ -1,7 +1,6 @@
 +++
 title = "Global Convergence of Hager-Zhang type Riemannian Conjugate Gradient Method"
 date = "2024-01-25"
-math = true
 tags = ["査読付き原著論文"]
 +++
 
@@ -11,15 +10,7 @@ tags = ["査読付き原著論文"]
 - URL: https://www.sciencedirect.com/science/article/abs/pii/S0096300322007536?via%3Dihub
 
 ## Abstract
-This paper presents the Hager–Zhang (HZ)-type Riemannian conjugate gradient method that
-uses the exponential retraction. We also present global convergence analyses of our
-proposed method under two kinds of assumptions. Moreover, we numerically
-compare our proposed methods with the existing methods by solving two kinds
-of Riemannian optimization problems on the unit sphere. The numerical results
-show that our proposed method has much better performance than the existing methods,
-i.e., the FR, DY, PRP, and HS methods. In particular, they show that it
-has much higher performance than existing methods including the hybrid ones
-in computing the stability number of graphs problem.
+This paper presents the Hager–Zhang (HZ)-type Riemannian conjugate gradient method that uses the exponential retraction. We also present global convergence analyses of our proposed method under two kinds of assumptions. Moreover, we numerically compare our proposed methods with the existing methods by solving two kinds of Riemannian optimization problems on the unit sphere. The numerical results show that our proposed method has much better performance than the existing methods, i.e., the FR, DY, PRP, and HS methods. In particular, they show that it has much higher performance than existing methods including the hybrid ones in computing the stability number of graphs problem.
 
 ## BibTeX
 ```bibtex

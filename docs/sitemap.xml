@@ -3,24 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-28T02:23:49+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sakai2023global/</loc>
-    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/sakai2024modified/</loc>
+    <lastmod>2024-08-28T02:23:49+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-08-28T02:23:49+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-28T02:23:49+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%9F%BB%E8%AA%AD%E4%BB%98%E3%81%8D%E5%8E%9F%E8%91%97%E8%AB%96%E6%96%87/</loc>
+    <lastmod>2024-08-28T02:23:49+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/sakai2023global/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/sakai2022riemannian/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/iiduka2022riemannian/</loc>
-    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E6%9F%BB%E8%AA%AD%E4%BB%98%E3%81%8D%E5%8E%9F%E8%91%97%E8%AB%96%E6%96%87/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/sakai2020hybrid/</loc>

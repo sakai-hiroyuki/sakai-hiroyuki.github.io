@@ -1,7 +1,6 @@
 +++
 title = "Hybrid Riemannian conjugate gradient methods with global convergence properties"
 date = "2024-01-23"
-math = true
 tags = ["査読付き原著論文"]
 +++
 

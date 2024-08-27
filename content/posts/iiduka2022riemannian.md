@@ -1,7 +1,6 @@
 +++
 title = "Riemannian Stochastic Fixed Point Optimization Algorithm"
 date = "2024-01-25"
-math = true
 tags = ["査読付き原著論文"]
 +++
 

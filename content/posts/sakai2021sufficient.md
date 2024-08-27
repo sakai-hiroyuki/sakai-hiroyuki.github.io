@@ -1,7 +1,6 @@
 +++
 title = "Sufficient Descent Riemannian Conjugate Gradient Methods"
 date = "2024-01-23"
-math = true
 tags = ["査読付き原著論文"]
 +++
 
