@@ -39,9 +39,16 @@ url = "https://github.com/sakai-hiroyuki"
 
 [[params.social]]
 name = "ORCiD"
-icon = "fa fa-2x fa-orcid"
+icon = "fa-brands fa-2x fa-orcid"
 weight = 2
 url = "https://orcid.org/0000-0001-7144-1549"
+
+
+[[params.social]]
+name = "Google Scholar"
+icon = "fa-brands fa-2x fa-google-scholar"
+weight = 3
+url = "https://scholar.google.co.jp/citations?user=RXrwOgoAAAAJ"
 
 
 [languages.jp]
