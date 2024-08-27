@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>査読付き原著論文 on 236236P</title>
-    <link>https://sakai-hiroyuki.github.io/tags/%E6%9F%BB%E8%AA%AD%E4%BB%98%E3%81%8D%E5%8E%9F%E8%91%97%E8%AB%96%E6%96%87/</link>
+    <link>http://localhost:1313/tags/%E6%9F%BB%E8%AA%AD%E4%BB%98%E3%81%8D%E5%8E%9F%E8%91%97%E8%AB%96%E6%96%87/</link>
     <description>Recent content in 査読付き原著論文 on 236236P</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>jp</language>
     <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sakai-hiroyuki.github.io/tags/%E6%9F%BB%E8%AA%AD%E4%BB%98%E3%81%8D%E5%8E%9F%E8%91%97%E8%AB%96%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%9F%BB%E8%AA%AD%E4%BB%98%E3%81%8D%E5%8E%9F%E8%91%97%E8%AB%96%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Global Convergence of Hager-Zhang type Riemannian Conjugate Gradient Method</title>
-      <link>https://sakai-hiroyuki.github.io/posts/sakai2023global/</link>
+      <link>http://localhost:1313/posts/sakai2023global/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://sakai-hiroyuki.github.io/posts/sakai2023global/</guid>
+      <guid>http://localhost:1313/posts/sakai2023global/</guid>
       <description>Global Convergence of Hager-Zhang type Riemannian Conjugate Gradient Method Link to heading Author: Hiroyuki Sakai, Hiroyuki Sato, Hideaki Iiduka Journal: Applied Mathematics and Computation 441: 127685 (2023). URL: https://www.sciencedirect.com/science/article/abs/pii/S0096300322007536?via%3Dihub Abstract Link to heading This paper presents the Hager–Zhang (HZ)-type Riemannian conjugate gradient method that uses the exponential retraction. We also present global convergence analyses of our proposed method under two kinds of assumptions. Moreover, we numerically compare our proposed methods with the existing methods by solving two kinds of Riemannian optimization problems on the unit sphere.</description>
     </item>
     <item>
       <title>Riemannian Adaptive Optimization Algorithm and Its Application to Natural Language Processing</title>
-      <link>https://sakai-hiroyuki.github.io/posts/sakai2022riemannian/</link>
+      <link>http://localhost:1313/posts/sakai2022riemannian/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://sakai-hiroyuki.github.io/posts/sakai2022riemannian/</guid>
+      <guid>http://localhost:1313/posts/sakai2022riemannian/</guid>
       <description>Riemannian Adaptive Optimization Algorithm and Its Application to Natural Language Processing Link to heading Author: Hiroyuki Sakai, Hideaki Iiduka Journal: IEEE Transactions on Cybernetics 52 (8): 7328–7339 (2022) URL: https://ieeexplore.ieee.org/document/9339934 Abstract Link to heading This article proposes a Riemannian adaptive optimization algorithm to optimize the parameters of deep neural networks. The algorithm is an extension of both AMSGrad in Euclidean space and RAMSGrad on a Riemannian manifold. The algorithm helps to resolve two issues affecting RAMSGrad.</description>
     </item>
     <item>
       <title>Riemannian Stochastic Fixed Point Optimization Algorithm</title>
-      <link>https://sakai-hiroyuki.github.io/posts/iiduka2022riemannian/</link>
+      <link>http://localhost:1313/posts/iiduka2022riemannian/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://sakai-hiroyuki.github.io/posts/iiduka2022riemannian/</guid>
+      <guid>http://localhost:1313/posts/iiduka2022riemannian/</guid>
       <description>Riemannian Stochastic Fixed Point Optimization Algorithm Link to heading Author: Hideaki Iiduka, Hiroyuki Sakai Journal: Numerical Algorithms 90: 1493–1517 (2022) URL: https://link.springer.com/article/10.1007/s11075-021-01238-y Abstract Link to heading This paper considers a stochastic optimization problem over the fixed point sets of quasinonexpansive mappings on Riemannian manifolds. The problem enables us to consider Riemannian hierarchical optimization problems over complicated sets, such as the intersection of many closed convex sets, the set of all minimizers of a nonsmooth convex function, and the intersection of sublevel sets of nonsmooth convex functions.</description>
     </item>
     <item>
       <title>Hybrid Riemannian conjugate gradient methods with global convergence properties</title>
-      <link>https://sakai-hiroyuki.github.io/posts/sakai2020hybrid/</link>
+      <link>http://localhost:1313/posts/sakai2020hybrid/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://sakai-hiroyuki.github.io/posts/sakai2020hybrid/</guid>
+      <guid>http://localhost:1313/posts/sakai2020hybrid/</guid>
       <description>Hybrid Riemannian conjugate gradient methods with global convergence properties Link to heading Author: Hiroyuki Sakai, Hideaki Iiduka Journal: Computational Optimization and Applications 77: 811-830 (2020) URL: https://link.springer.com/article/10.1007/s10589-020-00224-9 GitHub: https://github.com/iiduka-researches/202008-hybrid-rcg Abstract Link to heading This paper presents Riemannian conjugate gradient methods and global convergence analyses under the strong Wolfe conditions. The main idea of the proposed methods is to combine the good global convergence properties of the Dai–Yuan method with the efficient numerical performance of the Hestenes–Stiefel method.</description>
     </item>
     <item>
       <title>Sufficient Descent Riemannian Conjugate Gradient Methods</title>
-      <link>https://sakai-hiroyuki.github.io/posts/sakai2021sufficient/</link>
+      <link>http://localhost:1313/posts/sakai2021sufficient/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://sakai-hiroyuki.github.io/posts/sakai2021sufficient/</guid>
+      <guid>http://localhost:1313/posts/sakai2021sufficient/</guid>
       <description>Sufficient Descent Riemannian Conjugate Gradient Methods Link to heading Author: Hiroyuki Sakai, Hideaki Iiduka Journal: Journal of Optimization Theory and Applications 190: 130-150 (2021) URL: https://link.springer.com/article/10.1007/s10957-021-01874-3 GitHub: https://github.com/iiduka-researches/202104-sufficient Abstract Link to heading This paper considers sufficient descent Riemannian conjugate gradient methods with line search algorithms. We propose two kinds of sufficient descent nonlinear conjugate gradient method and prove that these methods satisfy the sufficient descent condition on Riemannian manifolds. One is a hybrid method combining a Fletcher–Reeves-type method with a Polak–Ribière–Polyak-type method, and the other is a Hager–Zhang-type method, both of which are generalizations of those used in Euclidean space.</description>
     </item>
   </channel>
