@@ -13,7 +13,7 @@ title = "Publications"
 
 - [Hiroyuki Sakai, Hiroyuki Sato, Hideaki Iiduka: Global Convergence of Hager-Zhang type Riemannian Conjugate Gradient Method, Applied Mathematics and Computation 441: 127685 (2023).](../posts/sakai2023global/)
 
-- Hiroyuki Sakai, Hideaki Iiduka: Convergence of Riemannian Stochastic Gradient Descent on Hadamard Manifold, Pacific Journal of Optimization: Special issue: Dedicated to Prof. Masao Fukushima on the occasion of his 75th birthday ??: ??–?? (2024).
+- Hiroyuki Sakai, Hideaki Iiduka: Convergence of Riemannian Stochastic Gradient Descent on Hadamard Manifold, Pacific Journal of Optimization: Special issue: Dedicated to Prof. Masao Fukushima on the occasion of his 75th birthday https://doi.org/10.61208/pjo-2024-005 (2024).
 
 - [Hiroyuki Sakai, Hideaki Iiduka: Modified Memoryless Spectral-Scaling Broyden Family on Riemannian Manifolds, Journal of Optimization Theory and Applications 202: 834-853 (2024).](../posts/sakai2024modified/)
 
