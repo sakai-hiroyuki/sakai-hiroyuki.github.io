@@ -2,38 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://sakai-hiroyuki.github.io/posts/sakai2025general/</loc>
+    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakai-hiroyuki.github.io/posts/sakai2024convergence/</loc>
+    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakai-hiroyuki.github.io/</loc>
+    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakai-hiroyuki.github.io/posts/</loc>
+    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakai-hiroyuki.github.io/tags/</loc>
+    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakai-hiroyuki.github.io/tags/%E6%9F%BB%E8%AA%AD%E4%BB%98%E3%81%8D%E5%8E%9F%E8%91%97%E8%AB%96%E6%96%87/</loc>
+    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakai-hiroyuki.github.io/posts/sakai2024modified/</loc>
     <lastmod>2024-08-28T02:23:49+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sakai2024modified/</loc>
-    <lastmod>2024-08-28T02:23:49+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-08-28T02:23:49+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-08-28T02:23:49+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E6%9F%BB%E8%AA%AD%E4%BB%98%E3%81%8D%E5%8E%9F%E8%91%97%E8%AB%96%E6%96%87/</loc>
-    <lastmod>2024-08-28T02:23:49+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/sakai2023global/</loc>
+    <loc>https://sakai-hiroyuki.github.io/posts/sakai2023global/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sakai2022riemannian/</loc>
+    <loc>https://sakai-hiroyuki.github.io/posts/sakai2022riemannian/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/iiduka2022riemannian/</loc>
+    <loc>https://sakai-hiroyuki.github.io/posts/iiduka2022riemannian/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sakai2020hybrid/</loc>
+    <loc>https://sakai-hiroyuki.github.io/posts/sakai2020hybrid/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sakai2021sufficient/</loc>
+    <loc>https://sakai-hiroyuki.github.io/posts/sakai2021sufficient/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://sakai-hiroyuki.github.io/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>https://sakai-hiroyuki.github.io/publications/</loc>
+  </url><url>
+    <loc>https://sakai-hiroyuki.github.io/work/</loc>
   </url>
 </urlset>

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="jp">
+
+<head>
+  <title>
+  A general framework of Riemannian adaptive optimization methods with a convergence analysis · Hiroyuki Sakai
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Hiroyuki Sakai">
+<meta name="description" content="A general framework of Riemannian adaptive optimization methods with a convergence analysis Link to heading Author: Hiroyuki Sakai, Hideaki Iiduka Journal: Transactions on Machine Learning Research (2025) URL: https://openreview.net/forum?id=knv4lQFVoE Abstract Link to heading This paper proposes a general framework of Riemannian adaptive optimization methods. The framework encapsulates several stochastic optimization algorithms on Riemannian manifolds and incorporates the mini-batch strategy that is often used in deep learning. Within this framework, we also propose AMSGrad on embedded submanifolds of Euclidean space.">
+<meta name="keywords" content="">
+<meta name="fediverse:creator" content="" />
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="A general framework of Riemannian adaptive optimization methods with a convergence analysis">
+  <meta name="twitter:description" content="A general framework of Riemannian adaptive optimization methods with a convergence analysis Link to heading Author: Hiroyuki Sakai, Hideaki Iiduka Journal: Transactions on Machine Learning Research (2025) URL: https://openreview.net/forum?id=knv4lQFVoE Abstract Link to heading This paper proposes a general framework of Riemannian adaptive optimization methods. The framework encapsulates several stochastic optimization algorithms on Riemannian manifolds and incorporates the mini-batch strategy that is often used in deep learning. Within this framework, we also propose AMSGrad on embedded submanifolds of Euclidean space.">
+
+<meta property="og:url" content="https://sakai-hiroyuki.github.io/posts/sakai2025general/">
+  <meta property="og:site_name" content="Hiroyuki Sakai">
+  <meta property="og:title" content="A general framework of Riemannian adaptive optimization methods with a convergence analysis">
+  <meta property="og:description" content="A general framework of Riemannian adaptive optimization methods with a convergence analysis Link to heading Author: Hiroyuki Sakai, Hideaki Iiduka Journal: Transactions on Machine Learning Research (2025) URL: https://openreview.net/forum?id=knv4lQFVoE Abstract Link to heading This paper proposes a general framework of Riemannian adaptive optimization methods. The framework encapsulates several stochastic optimization algorithms on Riemannian manifolds and incorporates the mini-batch strategy that is often used in deep learning. Within this framework, we also propose AMSGrad on embedded submanifolds of Euclidean space.">
+  <meta property="og:locale" content="jp">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-04-07T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-04-07T00:00:00+00:00">
+    <meta property="article:tag" content="査読付き原著論文">
+
+
+
+
+<link rel="canonical" href="https://sakai-hiroyuki.github.io/posts/sakai2025general/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.min.07092c1350ffd254998dc43a44ae96e617d14af4df4602626878df89189c5e1a.css" integrity="sha256-BwksE1D/0lSZjcQ6RK6W5hfRSvTfRgJiaHjfiRicXho=" crossorigin="anonymous" media="screen" />
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="https://sakai-hiroyuki.github.io/">
+      Hiroyuki Sakai
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/publications/">Publications</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/work/">Work Experience</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/contact/">Contact</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="https://sakai-hiroyuki.github.io/posts/sakai2025general/">
+              A general framework of Riemannian adaptive optimization methods with a convergence analysis
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2025-04-07T00:00:00Z">
+                April 7, 2025
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              
+            </span>
+          </div>
+          
+          
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/%E6%9F%BB%E8%AA%AD%E4%BB%98%E3%81%8D%E5%8E%9F%E8%91%97%E8%AB%96%E6%96%87/">査読付き原著論文</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+        <h1 id="a-general-framework-of-riemannian-adaptive-optimization-methods-with-a-convergence-analysis">
+  A general framework of Riemannian adaptive optimization methods with a convergence analysis
+  <a class="heading-link" href="#a-general-framework-of-riemannian-adaptive-optimization-methods-with-a-convergence-analysis">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<ul>
+<li>Author: <strong>Hiroyuki Sakai</strong>, Hideaki Iiduka</li>
+<li>Journal: <a href="https://jmlr.org/tmlr/"  class="external-link" target="_blank" rel="noopener">Transactions on Machine Learning Research</a> (2025)</li>
+<li>URL: <a href="https://openreview.net/forum?id=knv4lQFVoE"  class="external-link" target="_blank" rel="noopener">https://openreview.net/forum?id=knv4lQFVoE</a></li>
+</ul>
+<h2 id="abstract">
+  Abstract
+  <a class="heading-link" href="#abstract">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>This paper proposes a general framework of Riemannian adaptive optimization methods. The framework encapsulates several stochastic optimization algorithms on Riemannian manifolds and incorporates the mini-batch strategy that is often used in deep learning. Within this framework, we also propose AMSGrad on embedded submanifolds of Euclidean space. Moreover, we give convergence analyses valid for both a constant and a diminishing step size. Our analyses also reveal the relationship between the convergence rate and mini-batch size. In numerical experiments, we applied the proposed algorithm to principal component analysis and the low-rank matrix completion problem, which can be considered to be Riemannian optimization problems. Python implementations of the methods used in the numerical experiments are available at <a href="https://github.com/iiduka-researches/202408-adaptive"  class="external-link" target="_blank" rel="noopener">https://github.com/iiduka-researches/202408-adaptive</a>.</p>
+<h2 id="bibtex">
+  BibTeX
+  <a class="heading-link" href="#bibtex">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bibtex" data-lang="bibtex"><span class="line"><span class="cl"><span class="nc">@article</span><span class="p">{</span><span class="nl">sakai2025general</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="na">title</span><span class="p">=</span><span class="s">{A general framework of {R}iemannian adaptive optimization methods with a convergence analysis}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="na">author</span><span class="p">=</span><span class="s">{Hiroyuki Sakai and Hideaki Iiduka}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="na">journal</span><span class="p">=</span><span class="s">{Transactions on Machine Learning Research}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="na">issn</span><span class="p">=</span><span class="s">{2835-8856}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="na">year</span><span class="p">=</span><span class="s">{2025}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="na">url</span><span class="p">=</span><span class="s">{https://openreview.net/forum?id=knv4lQFVoE}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="na">note</span><span class="p">=</span><span class="s">{Reproducibility Certification}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div>
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2019 -
+    
+    2025
+     Hiroyuki Sakai 
+    ·
+    
+     <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  
+
+  
+
+  
+
+
+  
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

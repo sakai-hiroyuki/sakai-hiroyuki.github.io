@@ -13,9 +13,11 @@ title = "Publications"
 
 - [Hiroyuki Sakai, Hiroyuki Sato, Hideaki Iiduka: Global Convergence of Hager-Zhang type Riemannian Conjugate Gradient Method, Applied Mathematics and Computation 441: 127685 (2023).](../posts/sakai2023global/)
 
-- Hiroyuki Sakai, Hideaki Iiduka: Convergence of Riemannian Stochastic Gradient Descent on Hadamard Manifold, Pacific Journal of Optimization: Special issue: Dedicated to Prof. Masao Fukushima on the occasion of his 75th birthday https://doi.org/10.61208/pjo-2024-005 (2024).
+- [Hiroyuki Sakai, Hideaki Iiduka: Convergence of Riemannian Stochastic Gradient Descent on Hadamard Manifold, Pacific Journal of Optimization: 20 (4): 743-767 (2024).](../posts/sakai2024convergence/)
 
 - [Hiroyuki Sakai, Hideaki Iiduka: Modified Memoryless Spectral-Scaling Broyden Family on Riemannian Manifolds, Journal of Optimization Theory and Applications 202: 834-853 (2024).](../posts/sakai2024modified/)
+
+- [Hiroyuki Sakai, Hideaki Iiduka: A General Framework of Riemannian Adaptive Optimization Methods with a Convergence Analysis, Transactions on Machine Learning Research: (2025).](../posts/sakai2025general/)
 
 ## 口頭発表
 - **酒井 裕行**, 飯塚 秀明: **Riemann 多様体上の新たな共役勾配法の提案**, 日本オペレーションズ・リサーチ学会 2020年春季研究発表会, 奈良春日野国際フォーラム (2020年3月12日).

@@ -1,6 +1,6 @@
 baseURL = "https://sakai-hiroyuki.github.io"
 publishDir = "docs"
-title = "236236P"
+title = "Hiroyuki Sakai"
 theme = "hugo-coder"
 languageCode = "jp"
 defaultContentLanguage = "jp"
@@ -63,6 +63,11 @@ url = "publications/"
 name = "Blog"
 weight = 2
 url = "posts/"
+
+[[languages.jp.menu.main]]
+name = "Work Experience"
+weight = 2
+url = "work/"
 
 [[languages.jp.menu.main]]
 name = "Contact"
