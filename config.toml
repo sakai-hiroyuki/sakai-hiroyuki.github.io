@@ -23,7 +23,7 @@ colorScheme = "auto"
 hideColorSchemeToggle = false
 maxSeeAlsoItems = 2
 
-customCSS = []
+customCSS = ["css/custom.css"]
 customSCSS = []
 customJS = []
 customRemoteJS = []
