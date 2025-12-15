@@ -6,3 +6,42 @@ body {
     "Meiryo",                   /* メイリオ */
     sans-serif;
 }
+
+/* 1. 全ての見出し要素（サイトタイトル、記事タイトルなど）に適用 */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue",
+    "Arial",
+    "Hiragino Kaku Gothic ProN", /* ヒラギノ角ゴ ProN */
+    "Hiragino Sans",            /* ヒラギノ角ゴシック */
+    "Meiryo",                   /* メイリオ */
+    sans-serif !important; /* !important でテーマの既定設定を強制的に上書き */
+}
+
+/* 2. テーマ固有のサイトタイトル要素にも適用（hugo-coderでよく使われるセレクタ） */
+.site-title a, .post-title a {
+  font-family: "Helvetica Neue",
+    "Arial",
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    "Meiryo",
+    sans-serif !important;
+}
+
+/* 3. ナビゲーションメニューのフォントに適用 */
+/* hugo-coder テーマのメニュー要素を特定 */
+.nav, 
+.menu, 
+.header-right ul li a {
+  font-family: "Helvetica Neue",
+    "Arial",
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    "Meiryo",
+    sans-serif !important; 
+}
+
+/* サイト全体でフォントがおかしいと感じる部分に広く適用するためのセレクタ */
+/* 念のため、リンク要素全般にも適用しておきます */
+a {
+    font-family: inherit !important; /* 親要素（body/menu/h1など）からフォントを引き継ぐ */
+}

@@ -55,21 +55,21 @@ url = "https://scholar.google.co.jp/citations?user=RXrwOgoAAAAJ"
 languageName = ":jp:"
 
 [[languages.jp.menu.main]]
-name = "Publications"
+name = "研究業績"
 weight = 1
 url = "publications/"
 
 [[languages.jp.menu.main]]
-name = "Blog"
+name = "記事"
 weight = 2
 url = "posts/"
 
 [[languages.jp.menu.main]]
-name = "Work Experience"
+name = "経歴"
 weight = 2
 url = "work/"
 
 [[languages.jp.menu.main]]
-name = "Contact"
+name = "連絡先"
 weight = 3
 url = "contact/"
