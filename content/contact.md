@@ -2,4 +2,4 @@
 title = "連絡先"
 +++
 
-E-mail: sakai0815@cs.meiji.ac.jp
+E-mail: sakai.h.0815@gmail.com
