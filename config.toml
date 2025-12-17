@@ -57,19 +57,19 @@ languageName = ":jp:"
 [[languages.jp.menu.main]]
 name = "研究業績"
 weight = 1
-url = "publications/"
+url = "/publications/"
 
 [[languages.jp.menu.main]]
 name = "記事"
 weight = 2
-url = "posts/"
+url = "/posts/"
 
 [[languages.jp.menu.main]]
 name = "経歴"
 weight = 2
-url = "work/"
+url = "/work/"
 
 [[languages.jp.menu.main]]
 name = "連絡先"
 weight = 3
-url = "contact/"
+url = "/contact/"
