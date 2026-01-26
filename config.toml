@@ -4,8 +4,10 @@ title = "Hiroyuki Sakai"
 theme = "hugo-coder"
 languageCode = "jp"
 defaultContentLanguage = "jp"
-paginate = 6
 enableEmoji = true
+
+[pagination]
+  pagerSize = 6
 
 [markup.highlight]
 noClasses = false
