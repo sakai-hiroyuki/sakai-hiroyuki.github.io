@@ -14,3 +14,12 @@ title = "経歴"
 
 ## 学位
 修士（理学）取得機関：明治大学、取得年月日 2023年3月26日
+
+## 査読
+査読委託を受けた学術誌：
+- Numerical Algorithms（3件）
+- Japan Journal of Industrial and Applied Mathematics（1件）
+- Journal of Applied Mathematics and Computing（1件）
+- Computational and Applied Mathematics（1件）
+- Applied Mathematics and Computation（1件）
+- Franklin Open（1件）
