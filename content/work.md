@@ -17,9 +17,9 @@ title = "経歴"
 博士（理学）取得機関：明治大学、取得年月日 2026年3月26日
 
 ## 査読
-- [Numerical Algorithms](https://link.springer.com/journal/11075)（3件）
+- [Numerical Algorithms](https://link.springer.com/journal/11075)（4件）
 - [Japan Journal of Industrial and Applied Mathematics](https://link.springer.com/journal/13160)（1件）
-- [Journal of Applied Mathematics and Computing](https://link.springer.com/journal/12190)（1件）
+- [Journal of Applied Mathematics and Computing](https://link.springer.com/journal/12190)（2件）
 - [Computational and Applied Mathematics](https://link.springer.com/journal/40314)（1件）
 - [Applied Mathematics and Computation](https://www.sciencedirect.com/journal/applied-mathematics-and-computation)（1件）
 - [Franklin Open](https://www.sciencedirect.com/journal/franklin-open)（1件）
